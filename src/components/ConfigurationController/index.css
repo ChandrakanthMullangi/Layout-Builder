@@ -1,0 +1,29 @@
+/* Write your CSS here */
+
+.configuration-container {
+  background-color: #475569;
+  margin-top: -32px;
+  padding: 35px 0px 10px 50px;
+}
+
+.heading {
+  color: #ffffff;
+  font-family: Roboto;
+  font-size: 30px;
+}
+
+@media screen and (min-width: 768px) {
+  .heading {
+    font-size: 48px;
+  }
+}
+
+.input-container {
+  margin-bottom: 15px;
+}
+
+.label {
+  color: #ffffff;
+  font-family: Roboto;
+  font-size: 14px;
+}
